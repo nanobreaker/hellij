@@ -1,0 +1,23 @@
+{
+  "name": "Hellij",
+  "author": "YourCompany",
+  "dark": true,
+  "editorScheme": "/theme/hellij.xml",
+  "colors": {
+    "background": "#0A0C10",
+    "foreground": "#FFFFFF"
+  },
+  "ui": {
+    "*": {
+      "background": "background",
+      "foreground": "foreground"
+    },
+    "Borders": {
+      "color": "background",
+      "ContrastBorderColor": "background"
+    },
+    "StatusBar": {
+      "borderColor": "background"
+    }
+  }
+}
